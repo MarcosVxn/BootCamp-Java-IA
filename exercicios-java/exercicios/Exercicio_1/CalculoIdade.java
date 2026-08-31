@@ -4,17 +4,17 @@ import java.util.Scanner;
 
 public class CalculoIdade {
 
-    private static int ANOATUAL = 2026;
+    private static final int ANO_ATUAL = 2026;
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Qual o seu nome? ");
-        String nome = scan.next();
+        String Nome = scan.nextLine();
         System.out.print("Em que ano você nasceu? ");
-        int dataNasc = scan.nextInt();
+        int AnoNasc = scan.nextInt();
 
-        int idade = ANOATUAL - dataNasc;
+        int Idade = ANO_ATUAL - AnoNasc;
 
-        System.out.println("Ola " + nome + "Você tem " + idade + " anos");
+        System.out.println("Ola " + Nome + "Você tem " + Idade + " anos");
 
 
         scan.close();
