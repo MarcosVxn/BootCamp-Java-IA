@@ -33,12 +33,12 @@ Durante a jornada, meu foco é desenvolver principalmente:
 ### Cursos
 
 - [x] **Introdução ao Java e seu Ambiente de Desenvolvimento**
-- [ ] **Fundamentos da Sintaxe da Linguagem Java**
-- [ ] **Estruturas de Controle em Java**
+- [x] **Fundamentos da Sintaxe da Linguagem Java**
+- [x] **Estruturas de Controle em Java**
 
 ### Desafio de Código
 
-- [ ] **Desafios de Código sobre Fundamentos do Java no Setor Bancário**
+- [x] **Desafios de Código sobre Fundamentos do Java no Setor Bancário**
 
 ---
 
@@ -46,7 +46,7 @@ Durante a jornada, meu foco é desenvolver principalmente:
 
 ### Cursos
 
-- [ ] **Java e a Arte da Abstração com Classes e Encapsulamento**
+- [x] **Java e a Arte da Abstração com Classes e Encapsulamento**
 - [ ] **Herança e Polimorfismo em Java**
 - [ ] **Dominando Interfaces e Lambda em Java**
 - [ ] **Imersão Prática com Collections e Outras Classes Úteis do Java**
