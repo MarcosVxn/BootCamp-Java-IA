@@ -29,6 +29,14 @@ public class ContaBancaria {
 
         this.saldo = saldo;
     }
+    public void adicionarSaldo(int saldo){
+        
+        if (saldo <= 0 ) {
+            throw new IllegalArgumentException("Saldo não pode ser negativo");
+        }
+
+        this.saldo += saldo;
+    }
 
     public void setCheque(){
 
@@ -42,19 +50,28 @@ public class ContaBancaria {
     }
 
     public void pagarBoleto(int ValorBoleto){
-        if (ValorBoleto > saldo && ValorBoleto > chequeEspecial ) {
+        if (ValorBoleto > chequeEspecial + saldo ) {
             System.out.println("Voce não possui Saldo e nem cheque Especial");
+
+            return;
         }
         if(ValorBoleto > saldo){
             double taxa = ValorBoleto * 0.20;
 
-            ValorBoleto -= chequeEspecial;
-            this.chequeEspecial -= taxa;
+            this.saldo = saldo - ValorBoleto;
+            this.chequeEspecial = chequeEspecial - ValorBoleto;
+            
+
+
+            System.out.println("*******");
 
             System.out.println("Voce pagou com Cheque especial");
+
+            System.out.println("*******");
+    
         }
 
-        ValorBoleto -= saldo;
+        this.saldo = saldo - ValorBoleto;
         System.out.println("Voce pagou o boleto");
     }
 
