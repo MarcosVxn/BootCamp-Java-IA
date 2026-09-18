@@ -47,7 +47,7 @@ Durante a jornada, meu foco é desenvolver principalmente:
 ### Cursos
 
 - [x] **Java e a Arte da Abstração com Classes e Encapsulamento**
-- [ ] **Herança e Polimorfismo em Java**
+- [x] **Herança e Polimorfismo em Java**
 - [ ] **Dominando Interfaces e Lambda em Java**
 - [ ] **Imersão Prática com Collections e Outras Classes Úteis do Java**
 - [ ] **Debugging e o Tratamento de Exceções em Java**
