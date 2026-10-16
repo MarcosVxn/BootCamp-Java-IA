@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc0e3704-7fdf-4e26-9c84-9400fea7802f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/SpringBootEssentialsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/controller/HelloWolrdController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/database/model/ProdutoEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/dto/ProdutoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/exception/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/exception/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/java/br/com/marcosvxn/spring_boot_essentials/service/ProdutoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula01/spring-boot-essentials/spring-boot-essentials/src/test/java/br/com/marcosvxn/spring_boot_essentials/SpringBootEssentialsApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MarcosVxn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MarcosVxn/BootCamp-Java-IA.git&quot;,
+    &quot;accountId&quot;: &quot;e596bc87-ed18-48ee-ae08-424d041f4ba7&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3KHeID1bxXbxI8BcTwYfObdz9Rt" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SpringBootEssentialsApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Marcos/Downloads/Backup pasta/Documentos/GitHub/Estudos/BootCamp-Java-IA/SouzaDev/Aula02/spring-boot-essentials/spring-boot-essentials"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.marcosvxn.spring_boot_essentials.dto" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.33813.55" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc0e3704-7fdf-4e26-9c84-9400fea7802f" name="Changes" comment="" />
+      <created>1791218838828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791218838828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
