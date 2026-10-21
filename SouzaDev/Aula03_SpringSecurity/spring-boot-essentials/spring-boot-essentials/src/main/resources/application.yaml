@@ -1,0 +1,21 @@
+spring:
+
+  application:
+    name: spring-boot-essentials
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/estudos_security?createDatabaseIfNotExist=true
+    username: ${DATABASE_USERNAME}
+    password: ${DATABASE_PASSWORD}
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+jwt:
+  expiration: ${JWT_EXPIRATION:930800}
+  key: ${JWT_KEY:HUKBwWmSqbc25cVTWvhTSXpdmrfomeHzyZkqRBNR9gUrmpfzOOuhngbr+csHofAqYLs0wMI6iY3DyiP6S9ccHdEmchJFsYUDPdiuQj1BeC0wYQ7+gj49UkMbOEqUu/MymeWtXJoCXk2UuXauHAoHQaunDX1YxE9SKyi+hmSUVXSgop+BN0tIiETXorD4ZGrMqLa4lWxObCFbKhgtUNQdQPau9DUuqMZNZenIEKI2I0Wf7beDuhKGgvO81fa3QyLMMcMZg1TZcF0I56n33cHL+TQL+4qYf/7g/A/6atI4sMl93Rz25S3njutKmmz4Y3KVOEnni2l6JTjEx/UpPOeA9A==}
